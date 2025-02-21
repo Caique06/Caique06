@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Meu nome é Caique Sandim de Castro Meneses, tenho 18 anos e moro em Arujá(SP). Concluí o ensino médio com o técnico em Mecatrônica integrado pelo IFSP - Guarulhos. Possuo experiência com as linguagens C, C++, Portugol e HTML, possuo prática nas plataformas Scratch, UiPath, Packet Tracer, Arduíno, Lego Mindstorm e AWS, e atualmente estou estudando Python e CSS de forma autônoma.
+Meu nome é Caique Sandim de Castro Meneses, tenho 18 anos e moro em Arujá(SP). Concluí o ensino médio com o técnico em Mecatrônica integrado pelo IFSP - Guarulhos. Possuo experiência com as linguagens C, C++, Portugol, HTML e CNC, possuo prática nas plataformas Scratch, UiPath, Packet Tracer, Arduíno, Lego Mindstorm e AWS, e atualmente estou estudando Python e CSS de forma autônoma.
 
 ---
 
